@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vehículos on BEMO</title>
+    <link>http://example.com/projects/</link>
+    <description>Recent content in Vehículos on BEMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="http://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergencia</title>
+      <link>http://example.com/projects/emergencia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/emergencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incendio</title>
+      <link>http://example.com/projects/incendio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/incendio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-Urbano</title>
+      <link>http://example.com/projects/no-urbano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/no-urbano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
