@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BEMO</title>
-    <link>http://Bemo-1.github.io/</link>
-    <description>Recent content on BEMO</description>
+    <title>Vehículos on BEMO</title>
+    <link>http://Bemo-1.github.io/projects/</link>
+    <description>Recent content in Vehículos on BEMO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="http://Bemo-1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="http://Bemo-1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emergencia</title>
       <link>http://Bemo-1.github.io/projects/emergencia/</link>
